@@ -1,0 +1,10 @@
+../Drivers/Src/Driver_gpio.c:11:6:GPIO_PClkControl	16	static
+../Drivers/Src/Driver_gpio.c:70:6:GPIO_Init	16	static
+../Drivers/Src/Driver_gpio.c:106:6:GPIO_DeInit	16	static
+../Drivers/Src/Driver_gpio.c:135:9:GPIO_ReadInPin	16	static
+../Drivers/Src/Driver_gpio.c:140:10:GPIO_ReadInPort	16	static
+../Drivers/Src/Driver_gpio.c:144:6:GPIO_WriteToOutPin	16	static
+../Drivers/Src/Driver_gpio.c:154:6:GPIO_WriteToOutPort	16	static
+../Drivers/Src/Driver_gpio.c:158:6:GPIO_ToggleOutPin	16	static
+../Drivers/Src/Driver_gpio.c:163:6:GPIO_IRQ_Config	16	static
+../Drivers/Src/Driver_gpio.c:167:6:GPIO_IRQ_Handle	16	static
